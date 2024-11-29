@@ -24,4 +24,3 @@ we should create a new controller named ProductController. In this controller, w
 ## Add Blade Files
 - layout, index, show, create, edit
 
-# laravel_curd_image
